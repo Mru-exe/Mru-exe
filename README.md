@@ -7,6 +7,6 @@ My involvement:
  - Customizing Nintex's K2 custom controls for Process Point s.r.o
 
 Interests:
- - C++ & C
- - Neural networks
- - Web dev
+ - Web Dev
+ - Dynamic programming
+ - UI/UX
